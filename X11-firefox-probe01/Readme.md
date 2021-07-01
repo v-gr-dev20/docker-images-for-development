@@ -33,3 +33,8 @@ win$> demo/X11-firefox-probe01/start.js
 win$> demo/X11-firefox-probe01/start.js
 win$> demo/X11-firefox-probe01/start.js
 ```
+### Очистка после завершения
+```
+win$> demo/X11-firefox-probe01/cleanup.js
+win$> rm -force -r demo
+```
