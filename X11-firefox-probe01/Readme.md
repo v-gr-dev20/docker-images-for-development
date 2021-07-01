@@ -29,7 +29,7 @@ win$> demo/scripts/build.ps1 X11-firefox-probe01
 ```
 ### Запуск
 ```
-win$> demo/X11-firefox-probe01/start.ps1
-win$> demo/X11-firefox-probe01/start.ps1
-win$> demo/X11-firefox-probe01/start.ps1
+win$> demo/X11-firefox-probe01/start.js
+win$> demo/X11-firefox-probe01/start.js
+win$> demo/X11-firefox-probe01/start.js
 ```
